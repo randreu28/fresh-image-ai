@@ -1,6 +1,6 @@
 # Fresh image IA
 
-A text-to-image AI generatorusing
+A text-to-image AI generator using
 [stable difussion](https://huggingface.co/runwayml/stable-diffusion-v1-5).
 
 ### Usage
